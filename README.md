@@ -1,5 +1,5 @@
-<li>What will i do in this notebook?
-1.Importing the libraries
+<li>What will i do in this notebook?</li>
+<li>1.Importing the libraries</li>
 2.Load the data
 3.EDA
 4.Data Preprocessing :
@@ -30,4 +30,4 @@
 7-8.XGBoost
 8.Final step
 8-1.Models comparison
-8-2.Final model confusion matrix</li>
+8-2.Final model confusion matrix
