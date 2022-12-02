@@ -1,5 +1,4 @@
-# CustomerChurnPrediction
-*What will i do in this notebook?
+<h1>What will i do in this notebook?</1>
 1.Importing the libraries
 2.Load the data
 3.EDA
