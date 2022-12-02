@@ -1,6 +1,5 @@
 # CustomerChurnPrediction
-<ol>
-What will i do in this notebook?
+*What will i do in this notebook?
 1.Importing the libraries
 2.Load the data
 3.EDA
